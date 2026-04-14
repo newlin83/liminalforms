@@ -31,7 +31,7 @@ html {
 /* Starlight variables */
 :root {
   --sl-font: "et-book", Palatino, "Palatino Linotype", Georgia, serif;
-  --sl-content-width: 60rem;
+  --sl-content-width: 50rem;
   --sl-line-height: 1.4;
 
   /* Tufte dark mode colors */

@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Liminal Forms',
+			tableOfContents: false,
 			description: 'The Backrooms, consciousness, and the source of everything humanity has ever built.',
 			customCss: [
 				'./src/styles/custom.css',
