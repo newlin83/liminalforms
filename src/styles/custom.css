@@ -135,3 +135,59 @@ nav.sidebar span,
   font-size: 1.1rem !important;
   line-height: 1.4rem !important;
 }
+
+/* Standard blockquotes */
+.sl-markdown-content blockquote {
+  font-size: 1.4rem;
+  font-style: italic;
+  border-left: none;
+  padding-left: 0;
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+  margin-left: 2rem;
+  color: #dddddd;
+}
+
+.sl-markdown-content blockquote p {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Epigraphs — Tufte style */
+.sl-markdown-content .epigraph {
+  margin: 3em 0;
+}
+
+.sl-markdown-content .epigraph blockquote {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  margin-left: 0;
+}
+
+.sl-markdown-content .epigraph blockquote p {
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.sl-markdown-content .epigraph blockquote footer {
+  font-style: normal;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  color: #aaaaaa;
+}
+
+.sl-markdown-content .epigraph blockquote footer cite {
+  font-style: italic;
+}
+
+/* Tufte subtitle */
+.sl-markdown-content p.subtitle {
+  font-style: italic;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  display: block;
+  line-height: 1;
+  color: #dddddd;
+}
