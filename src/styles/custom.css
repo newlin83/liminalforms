@@ -23,67 +23,82 @@
   font-display: swap;
 }
 
-/* Base font size — scales everything up */
+/* Base font size — matches Tufte exactly */
 html {
-  font-size: 18px;
+  font-size: 15px;
 }
 
-/* Typography */
+/* Starlight variables */
 :root {
   --sl-font: "et-book", Palatino, "Palatino Linotype", Georgia, serif;
-  --sl-text-body: 1.2rem;
-  --sl-line-height: 1.8;
-  --sl-content-width: 55rem;
+  --sl-content-width: 60rem;
+  --sl-line-height: 1.4;
 
-  /* Tufte dark mode colors — #ddd on #151515 */
+  /* Tufte dark mode colors */
   --sl-color-black: #151515;
   --sl-color-gray-6: #1c1c1c;
   --sl-color-gray-5: #252525;
   --sl-color-gray-4: #404040;
   --sl-color-gray-3: #606060;
-  --sl-color-gray-2: #bbbbbb;
+  --sl-color-gray-2: #dddddd;
   --sl-color-gray-1: #dddddd;
-  --sl-color-white: #eeeeee;
+  --sl-color-white: #dddddd;
 
-  /* Accent — subtle warm white, not yellow */
+  /* Accent — neutral grey */
   --sl-color-accent-low: #2a2a2a;
   --sl-color-accent: #aaaaaa;
   --sl-color-accent-high: #dddddd;
   --sl-color-text-accent: #dddddd;
 }
 
-/* Sidebar font size — readable but compact */
-.sidebar-content,
-.sl-sidebar,
-starlight-menu-button,
-nav.sidebar {
-  font-size: 0.95rem;
+/* Paragraphs — match Tufte exactly */
+.sl-markdown-content p {
+  font-size: 1.4rem;
+  line-height: 2rem;
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+  color: #dddddd;
+  font-family: "et-book", Palatino, "Palatino Linotype", Georgia, serif;
 }
 
-/* Main content text */
-.sl-markdown-content {
-  font-size: 1.2rem;
-  line-height: 1.8;
+/* Headings */
+.sl-markdown-content h1,
+.content-panel h1 {
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-size: 3.2rem !important;
+  line-height: 1 !important;
+  margin-top: 4rem !important;
+  margin-bottom: 1.5rem !important;
+  font-family: "et-book", Palatino, Georgia, serif !important;
+  color: #dddddd !important;
 }
 
-/* Headings — lighter weight, italic like Tufte */
-.sl-markdown-content h1 {
-  font-weight: 400;
-  font-style: normal;
+.sl-markdown-content h2,
+.content-panel h2 {
+  font-weight: 400 !important;
+  font-style: italic !important;
+  font-size: 2.2rem !important;
+  line-height: 1 !important;
+  margin-top: 2.1rem !important;
+  margin-bottom: 1.4rem !important;
+  font-family: "et-book", Palatino, Georgia, serif !important;
+  color: #dddddd !important;
 }
 
-.sl-markdown-content h2 {
-  font-style: italic;
-  font-weight: 400;
-  letter-spacing: 0;
+.sl-markdown-content h3,
+.content-panel h3 {
+  font-weight: 400 !important;
+  font-style: italic !important;
+  font-size: 1.7rem !important;
+  line-height: 1 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 1.4rem !important;
+  font-family: "et-book", Palatino, Georgia, serif !important;
+  color: #dddddd !important;
 }
 
-.sl-markdown-content h3 {
-  font-style: italic;
-  font-weight: 400;
-}
-
-/* Links — inherit color, just underlined like Tufte */
+/* Links — inherit color, underlined like Tufte */
 .sl-markdown-content a {
   color: inherit;
   text-decoration: underline;
@@ -99,9 +114,24 @@ nav.sidebar {
 
 /* Blockquotes — Tufte style */
 .sl-markdown-content blockquote {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   font-style: italic;
   border-left: none;
   padding-left: 0;
   margin-left: 2rem;
+  color: #dddddd;
+}
+
+/* Sidebar nav font size */
+.sidebar-content a,
+.sidebar-content li,
+.sidebar-content span,
+nav.sidebar a,
+nav.sidebar li,
+nav.sidebar span,
+.sl-sidebar a,
+.sl-sidebar li,
+.sl-sidebar span {
+  font-size: 1.1rem !important;
+  line-height: 1.4rem !important;
 }
