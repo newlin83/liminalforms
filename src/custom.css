@@ -1,0 +1,79 @@
+/* ET Book fonts */
+@font-face {
+  font-family: "et-book";
+  src: url("/public/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book";
+  src: url("/public/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "et-book";
+  src: url("/public/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Typography */
+:root {
+  --sl-font: "et-book", Palatino, "Palatino Linotype", Georgia, serif;
+  --sl-text-body: 1.3rem;
+  --sl-line-height: 2rem;
+  --sl-content-width: 55rem;
+}
+
+/* Dark mode colors — warm rather than cold */
+:root {
+  --sl-color-accent-low: hsl(35, 54%, 20%);
+  --sl-color-accent: hsl(35, 82%, 55%);
+  --sl-color-accent-high: hsl(35, 82%, 80%);
+  --sl-color-black: hsl(30, 8%, 9%);
+  --sl-color-gray-6: hsl(30, 6%, 13%);
+  --sl-color-gray-5: hsl(30, 5%, 20%);
+  --sl-color-gray-1: hsl(35, 15%, 88%);
+  --sl-color-gray-2: hsl(35, 10%, 75%);
+}
+
+/* Headings — lighter weight, italic like Tufte */
+.sl-markdown-content h2 {
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.sl-markdown-content h3 {
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* Links — inherit color, just underlined like Tufte */
+.sl-markdown-content a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 0.05em;
+  text-underline-offset: 0.1em;
+}
+
+/* Selection — crimson like Mike Mai */
+::selection {
+  color: white;
+  background: crimson;
+}
+
+/* Blockquotes — Tufte style */
+.sl-markdown-content blockquote {
+  font-size: 1.2rem;
+  font-style: italic;
+  border-left: none;
+  padding-left: 0;
+  margin-left: 2rem;
+}

@@ -8,6 +8,9 @@ export default defineConfig({
 		starlight({
 			title: 'Liminal Forms',
 			description: 'The Backrooms, consciousness, and the source of everything humanity has ever built.',
+			customCss: [
+				'./src/styles/custom.css',
+			],
 			sidebar: [
 				{
 					label: 'Core Framework',
