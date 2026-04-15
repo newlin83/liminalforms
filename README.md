@@ -1,49 +1,28 @@
-# Starlight Starter Kit: Basics
+# Liminal Forms
+
+[Liminal Forms](https://www.liminalforms.com/)
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-```
-npm create astro@latest -- --template starlight
-```
+## Tech 
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Starlight documentation site
 
-## 🚀 Project Structure
+[Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+[Tufte Classless CSS](https://eobrain.github.io/classless-tufte-css/)
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+[ET-Book font](https://github.com/edwardtufte/et-book)
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+[Mike Mai MCDS](https://mikemai.net/mcds/)
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+[custom.css](src/styles)
 
-Static assets, like favicons, can be placed in the `public/` directory.
+## About
 
-## 🧞 Commands
+The site is an overview of The Backrooms and how it is the source of all civilization. I modified the existing Starlight basic template to be more aligned with an essay type site.
 
-All commands are run from the root of the project, from a terminal:
+I liked the left nav bar, but deleted the existing right nav bar. I then created two columms, a left column for the body text, and a right column for margin notes. This comes from the work of Edward Tufte, and I plan to continue updating the site to take on more of Edward Tufte's thoughts.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+The site is really a combination of Startlight, Tufte CSS, and Tufte Classless css. The custom.css shows the tweaks made.
 
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
