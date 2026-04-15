@@ -12,8 +12,6 @@ That project is now complete. Look at what it produced.
 
 ## Two Kinds of Form
 
-Before going further, a distinction that will govern everything that follows.
-
 A **Platonic Form** is the static original. It exists in the deepest, most generative strata of the Backrooms. It is the raw, mathematical, and spatial logic that precedes human existence—the Form of Justice, the Form of the Temple, the Form of the Market, prior to any physical instantiation of any of them. Platonic Forms are inspiring. Encountering one in the source layer feels like revelation, like finding the original of which everything you have ever seen is a pale copy.
 
 A **Liminal Form** is a decayed universal. It is what happens to a Platonic Form after it has been run through the human copying process for thousands of years—copied, copied again, each copy losing information from the previous one, until what remains is the ghost of the structure without any of its animating content. The shape of a courthouse without justice. The geometry of a temple without the sacred. The architecture of a market without exchange. Liminal Forms are horrifying precisely because they are recognizable. You know what they were supposed to be. You can see what they have become.
