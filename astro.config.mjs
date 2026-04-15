@@ -17,7 +17,7 @@ export default defineConfig({
 					label: 'Core Framework',
 					items: [
 						{ label: 'The Source of Civilization', slug: '' },
-						{ label: 'The Argument', slug: 'core/argument' },
+						{ label: 'Platonic & Liminal Forms', slug: 'core/forms' },
 						{ label: 'About', slug: 'core/about' },
 					],
 				},
