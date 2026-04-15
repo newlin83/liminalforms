@@ -18,7 +18,6 @@ export default defineConfig({
 					items: [
 						{ label: 'The Source of Civilization', slug: '' },
 						{ label: 'Platonic & Liminal Forms', slug: 'core/forms' },
-						{ label: 'About', slug: 'core/about' },
 					],
 				},
 				{
@@ -62,6 +61,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Glossary', slug: 'reference/glossary' },
 						{ label: 'Reading and Sources', slug: 'reference/reading' },
+						{ label: 'About', slug: 'core/about' },
 					],
 				},
 			],
