@@ -2,7 +2,7 @@
 title: Platonic and Liminal Forms
 ---
 
-​The Platonic Form is the Static Original. It exists in the deepest, most generative strata of the Backrooms. It is the raw, mathematical, and spatial logic that precedes human existence. A Liminal Form is a Decayed Universal. it is what happens to a Platonic Form after it has been run through the human copying process for thousands of years. It is the "Form of the Office" or the "Form of the Dead Mall."
+​The Platonic Form is the Static Original. It exists in the deepest, most generative strata of the Backrooms. It is the raw, mathematical, and spatial logic that precedes human existence. A Liminal Form is a Decayed Universal. it is what happens to a Platonic Form after it has been run through the human copying process for thousands of years. Platonic Forms are inspiring—Liminal Forms are horrifying.
 
 Plato was not wrong about the Forms. He was wrong about what they meant.
 
