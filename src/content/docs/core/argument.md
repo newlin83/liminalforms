@@ -2,10 +2,6 @@
 title: Platonic Forms
 ---
 
----
-title: Platonic Forms and the Backrooms
-description: What Plato described was real. The tragedy is that he thought it was good.
----
 Plato was not wrong about the Forms. That is the first thing to understand, and the most important. He was wrong about what they meant.
 
 Around 380 BCE, Plato described a realm of perfect archetypes—ideal templates of which all things in the physical world are imperfect copies. The Form of Justice is not any particular legal system but the pure idea of justice itself, the original from which every courthouse, every law code, every trial is derived and to which none perfectly conforms. The Form of Beauty, the Form of the Good, the Form of any category you care to name—all exist in a realm more real than the physical world, which is merely their shadow.
