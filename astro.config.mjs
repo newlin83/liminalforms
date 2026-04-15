@@ -61,7 +61,7 @@ export default defineConfig({
 					items: [
 						{ label: 'Glossary', slug: 'reference/glossary' },
 						{ label: 'Reading and Sources', slug: 'reference/reading' },
-						{ label: 'About', slug: 'core/about' },
+						{ label: 'About', slug: 'reference/about' },
 					],
 				},
 			],
