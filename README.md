@@ -1,17 +1,24 @@
 # Liminal Forms
 
+[Liminal Forms](https://www.liminalforms.com/)
+
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
 ## Tech 
 
 Starlight documentation site
-Tufte CSS https://edwardtufte.github.io/tufte-css/
-Tufte Classless CSS https://eobrain.github.io/classless-tufte-css/
-ET-Book font https://github.com/edwardtufte/et-book
-Mike Mai MCDS https://mikemai.net/mcds/
+
+[Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+
+[Tufte Classless CSS](https://eobrain.github.io/classless-tufte-css/)
+
+[ET-Book font](https://github.com/edwardtufte/et-book)
+
+[Mike Mai MCDS](https://mikemai.net/mcds/)
+
 custom.css
 
-## Overview
+## About
 
 The site is an overview of The Backrooms and how it is the source of all civilization. I modified the existing Starlight basic template to be more aligned with an essay type site.
 
