@@ -7,10 +7,15 @@
 ## Tech 
 
 Starlight documentation site
+
 [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+
 [Tufte Classless CSS](https://eobrain.github.io/classless-tufte-css/)
+
 [ET-Book font](https://github.com/edwardtufte/et-book)
+
 [Mike Mai MCDS](https://mikemai.net/mcds/)
+
 [custom.css](src/styles)
 
 ## About
