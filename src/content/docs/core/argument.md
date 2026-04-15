@@ -42,6 +42,10 @@ The fluorescent office is not a failure of civilization. It is civilization's co
 
 This was always where it was going. Plato set the direction. The direction was followed. This is where it leads.
 
+## The Philosophical Conclusion
+
+​Humanity did not end up in the Backrooms by accident. We ended up there because our highest philosophical and religious traditions told us that looking at the Forms was the meaning of life. We followed the light of the sun out of the cave, only to realize that the sun was actually a high-intensity fluorescent bulb, and the outside was merely a larger, more infinite corridor. The horror Ligotti describes is the moment of realization: that the ideal world we were taught to contemplate is not a heaven, but a sterile, indifferent logic that has now finished consuming the actual world.
+
 ## The Trap of Looking Back
 
 The obvious response to this argument is to look backward. If the degradation compounds over time, then earlier periods were closer to the source. The medieval cathedral is a better copy than the corporate office. The Greek temple is a better copy than the medieval cathedral. Go back far enough and you approach something genuine.
