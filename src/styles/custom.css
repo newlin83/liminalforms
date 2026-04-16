@@ -224,6 +224,39 @@ html {
   color: #dddddd;
 }
 
+/* Epigraph div — remove grid gap and control spacing */
+.sl-markdown-content .epigraph {
+  margin-top: 1.4rem;
+  margin-bottom: 1.4rem;
+  grid-column: 1 / 2;
+}
+
+.sl-markdown-content .epigraph blockquote {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-left: none;
+  padding-left: 0;
+}
+
+.sl-markdown-content .epigraph blockquote p {
+  font-size: 1.4rem;
+  line-height: 2rem;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.sl-markdown-content .epigraph blockquote footer {
+  font-style: normal;
+  font-size: 1.1rem;
+  text-align: right;
+  color: #aaaaaa;
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
 /* ============================================
    Sidenote labels and counter
    ============================================ */
@@ -247,7 +280,7 @@ html {
 .sl-markdown-content label.sidenote-number::after {
   content: counter(sidenote-counter);
   font-family: "et-book-roman-old-style", "et-book", Palatino, Georgia, serif;
-  font-size: 0.85rem;
+  font-size: 1.0rem;
   top: -0.7em;
   left: 0.15em;
   position: relative;
@@ -259,12 +292,12 @@ html {
 .sl-markdown-content .sidenote::before {
   content: counter(sidenote-counter) " ";
   font-family: "et-book-roman-old-style", "et-book", Palatino, Georgia, serif;
-  font-size: 0.85rem;
+  font-size: 1.0rem;
   top: -0.5em;
   position: relative;
   vertical-align: baseline;
   line-height: 0;
-  margin-right: 0.2em;
+  margin-right: 0.15em;
 }
 
 /* ============================================

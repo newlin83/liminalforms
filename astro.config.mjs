@@ -18,6 +18,7 @@ export default defineConfig({
 					items: [
 						{ label: 'The Source of Civilization', slug: '' },
 						{ label: 'Platonic & Liminal Forms', slug: 'core/forms' },
+						{ label: 'What Remains', slug: 'core/remains' },
 					],
 				},
 				{
