@@ -412,3 +412,28 @@ nav.sidebar span,
     position: relative;
   }
 }
+
+
+
+/* ============================================
+   Full width — spans both columns (YouTube, etc.)
+   ============================================ */
+.sl-markdown-content .fullwidth {
+  grid-column: 1 / 3;
+}
+
+/* Responsive video embeds */
+.sl-markdown-content figure:has(iframe) {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.sl-markdown-content figure:has(iframe) iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
