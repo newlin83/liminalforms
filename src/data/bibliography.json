@@ -1,0 +1,88 @@
+[
+  {
+    "author_last": "Augé",
+    "author_first": "Marc",
+    "title": "Non-Places: Introduction to an Anthropology of Supermodernity",
+    "translator": "John Howe",
+    "publisher": "Verso",
+    "location": "London",
+    "year": 1995,
+    "category": "Architecture and Space"
+  },
+  {
+    "author_last": "Baudrillard",
+    "author_first": "Jean",
+    "title": "Simulacra and Simulation",
+    "translator": "Sheila Faria Glaser",
+    "publisher": "University of Michigan Press",
+    "location": "Ann Arbor",
+    "year": 1994,
+    "category": "Philosophy"
+  },
+  {
+    "author_last": "Durkheim",
+    "author_first": "Émile",
+    "title": "The Division of Labour in Society",
+    "translator": "W.D. Halls",
+    "publisher": "Free Press",
+    "location": "New York",
+    "year": 1984,
+    "category": "Sociology and Civilization"
+  },
+  {
+    "author_last": "Eliade",
+    "author_first": "Mircea",
+    "title": "The Sacred and the Profane: The Nature of Religion",
+    "translator": "Willard R. Trask",
+    "publisher": "Harcourt",
+    "location": "New York",
+    "year": 1959,
+    "category": "Sociology and Civilization"
+  },
+  {
+    "author_last": "Fisher",
+    "author_first": "Mark",
+    "title": "The Weird and the Eerie",
+    "publisher": "Repeater Books",
+    "location": "London",
+    "year": 2016,
+    "category": "Culture and Media"
+  },
+  {
+    "author_last": "Heidegger",
+    "author_first": "Martin",
+    "title": "Being and Time",
+    "translator": "John Macquarrie and Edward Robinson",
+    "publisher": "Harper & Row",
+    "location": "New York",
+    "year": 1962,
+    "category": "Philosophy"
+  },
+  {
+    "author_last": "Jaynes",
+    "author_first": "Julian",
+    "title": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+    "publisher": "Houghton Mifflin",
+    "location": "Boston",
+    "year": 1976,
+    "category": "Psychology and Consciousness"
+  },
+  {
+    "author_last": "Ligotti",
+    "author_first": "Thomas",
+    "title": "The Conspiracy Against the Human Race: A Contrivance of Horror",
+    "publisher": "Hippocampus Press",
+    "location": "New York",
+    "year": 2010,
+    "category": "Psychology and Consciousness"
+  },
+  {
+    "author_last": "Sapolsky",
+    "author_first": "Robert M.",
+    "title": "Determined: A Science of Life Without Free Will",
+    "publisher": "Penguin Press",
+    "location": "New York",
+    "year": 2023,
+    "category": "Psychology and Consciousness"
+  }
+]

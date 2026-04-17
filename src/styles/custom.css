@@ -437,3 +437,14 @@ nav.sidebar span,
   width: 100%;
   height: 100%;
 }
+
+/* Bibliography spacing */
+.sl-markdown-content .bibliography-entry {
+  margin-bottom: 1rem;
+}
+
+/* Bibliography section heading spacing */
+.sl-markdown-content section h2 {
+  margin-bottom: 1.5rem !important;
+  margin-top: 2.5rem !important;
+}
