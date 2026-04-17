@@ -7,7 +7,27 @@
     "publisher": "Verso",
     "location": "London",
     "year": 1995,
-    "category": "Architecture and Space"
+    "category": "Academic and Critical Context"
+  },
+  {
+    "author_last": "Bachelard",
+    "author_first": "Gaston",
+    "title": "The Poetics of Space",
+    "translator": "Maria Jolas",
+    "publisher": "Beacon Press",
+    "location": "Boston",
+    "year": 1994,
+    "category": "Academic and Critical Context"
+  },
+  {
+    "author_last": "Augé",
+    "author_first": "Marc",
+    "title": "The Weird and the Eerie",
+    "translator": "",
+    "publisher": "Repeater Books",
+    "location": "London",
+    "year": 2016,
+    "category": "Academic and Critical Context"
   },
   {
     "author_last": "Baudrillard",
@@ -46,7 +66,25 @@
     "publisher": "Repeater Books",
     "location": "London",
     "year": 2016,
-    "category": "Culture and Media"
+    "category": "Academic and Critical Context"
+  },
+  {
+    "author_last": "Fisher",
+    "author_first": "Mark",
+    "title": "Capitalist Realism: Is There No Alternative?",
+    "publisher": "Zero Books",
+    "location": "Winchester",
+    "year": 2009,
+    "category": "Academic and Critical Context"
+  },
+  {
+    "author_last": "Jameson",
+    "author_first": "Fredric",
+    "title": "Postmodernism, or, The Cultural Logic of Late Capitalism",
+    "publisher": "Duke University Press",
+    "location": "Durham",
+    "year": 1991,
+    "category": "Academic and Critical Context"
   },
   {
     "author_last": "Heidegger",
@@ -56,6 +94,36 @@
     "publisher": "Harper & Row",
     "location": "New York",
     "year": 1962,
+    "category": "Philosophy"
+  },
+  {
+    "author_last": "Heidegger",
+    "author_first": "Martin",
+    "title": "The Question Concerning Technology",
+    "translator": "William Lovitt",
+    "publisher": "Harper & Row",
+    "location": "New York",
+    "year": 1977,
+    "category": "Philosophy"
+  },
+  {
+    "author_last": "Heidegger",
+    "author_first": "Martin",
+    "title": "Building Dwelling Thinking",
+    "translator": "Albert Hofstadter",
+    "publisher": "Harper & Row",
+    "location": "New York",
+    "year": 1971,
+    "category": "Philosophy"
+  },
+  {
+    "author_last": "Deleuze",
+    "author_first": "Gilles",
+    "title": "Plato and the Simulacrum",
+    "translator": "Rosalind Krauss",
+    "publisher": "The MIT Press",
+    "location": "Cambridge, MA",
+    "year": 1983,
     "category": "Philosophy"
   },
   {
