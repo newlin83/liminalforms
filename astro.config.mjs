@@ -31,9 +31,9 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Self-Awarenness',
+					label: 'Genesis',
 					items: [
-						{ label: 'The Source', slug: 'consciousness/animals' },
+						{ label: 'Emergence', slug: 'consciousness/animals' },
 						{ label: 'Childhood Access', slug: 'consciousness/childhood-access' },
 						{ label: 'The Crossing', slug: 'consciousness/the-crossing' },
 						{ label: 'Thin Membranes', slug: 'consciousness/thin-membranes' },
