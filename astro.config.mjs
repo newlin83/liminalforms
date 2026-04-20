@@ -22,15 +22,6 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'The Backrooms',
-					items: [
-						{ label: 'Origins', slug: 'backrooms/origins' },
-						{ label: 'Levels', slug: 'backrooms/levels' },
-						{ label: 'The Hum', slug: 'backrooms/hum' },
-						{ label: 'Entities', slug: 'backrooms/entities' },
-					],
-				},
-				{
 					label: 'Genesis',
 					items: [
 						{ label: 'Emergence', slug: 'consciousness/animals' },
@@ -40,6 +31,16 @@ export default defineConfig({
 						{ label: 'Cognitive Deterioration', slug: 'consciousness/cognitive-deterioration' },
 					],
 				},
+				{
+					label: 'The Backrooms',
+					items: [
+						{ label: 'Origins', slug: 'backrooms/origins' },
+						{ label: 'Levels', slug: 'backrooms/levels' },
+						{ label: 'The Hum', slug: 'backrooms/hum' },
+						{ label: 'Entities', slug: 'backrooms/entities' },
+					],
+				},
+				
 				{
 					label: 'Civilization and History',
 					items: [
