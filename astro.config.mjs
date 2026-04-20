@@ -26,6 +26,7 @@ export default defineConfig({
 					label: 'Genesis',
 					items: [
 						{ label: 'Emergence', slug: 'consciousness/animals' },
+						{ label: 'law', slug: 'consciousness/law' },
 						{ label: 'Childhood Access', slug: 'consciousness/childhood-access' },
 						{ label: 'The Crossing', slug: 'consciousness/the-crossing' },
 						{ label: 'Thin Membranes', slug: 'consciousness/thin-membranes' },
