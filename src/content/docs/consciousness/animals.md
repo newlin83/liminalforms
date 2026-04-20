@@ -3,7 +3,7 @@ title: Emergence
 ---
 ## How Did We Become so Unique?
 
-The way most people understand humanity is simplistic: we evolved, we built cities, and here we are. What is mis-understood is just how unbelieveably recent all of this is. Academics tend to dismiss and laugh off the religious "young earth creationists" who say something like "the earth is 10,000 years old", when in reality, the earth for humans, really is only this old.
+The way most people understand humanity is that we evolved (the rat-like Purgatorius > Lucy > homo sapiens), we built cities, and here we are. What is commonly mis-understood is just how unbelieveably recent all of this is. 
 
 ## History of Earth
 
@@ -23,14 +23,12 @@ There's this concept floating around that religion was something that ignorant p
 
 When atheists dismiss "religion" out of hand, they are confusing the communal religion (which really is ancient and common amongst all people), and the *individualized* religion which is 2500 years old. Religion was born as a *response* to our newly found consciousness. Although humans today are biologically the same as humans 200,000 years ago, we only developed the modern form of consciousness we have 2500 years ago. Prior to that, humans were conscious (symbolic thought, language, planning, myth, ritual, social complexity), but they lacked the *introspective selfhood* that we have today.
 
-So in a sense, the young earth creationists are correct: 10,000 years ago, the world was "created" if by that you mean, the holocene began, and humans started on the project of civilization. And our modern selves were only "created" 2500 years ago.
-
-That is very difficult to comprehend. We assume that humans are old, because we think "the Egyptians and ancient cave paintings go way back, so humans are very old", but they were a very different type of human that we are today, in that they simply did not have the introspective view of the self. It simply didn't exist among *anyone* 10,000 years ago. They simply did not have consciousness as what we think consciousness is. They had consciosness, but it was very different.
+That is very difficult to comprehend, at least for me. We assume that humans are old, because we think "the Egyptians and ancient cave paintings go way back, so humans are very old", but those people were a very different type of people than we are today, in that they simply did not have the *introspective view of the self*. It simply didn't exist among *anyone* 10,000 years ago, much less 200,000 years ago. These older humans did not have consciousness as what we think consciousness is.
 
 Ultimately, the view must be that modern consciousness (introspective selfhood), liminality, and individual religion are 2500 years old. The religions and philosophies that developed weren't part of some continuous process, but were a massive fundamental shift in how humans thought before (myth, language, trial focus) and into how we think today (individual personhood). All of the concepts of personal responsibility and individual rights, *were created only 2500 years ago*.
 
 Jesus, the Hebrew prophets, the Buddha, Zoroaster, Socrates&mdash;all of them are expressions of a new cognitive capacity that had only recently emerged in the human species.
 
-## Nothing else is like us
+## Forms & Liminality
 
-For whatever reason, humanity split into a separate line from all other life on earth, and we were able to make it to introspective consciousness, when everything else remained much the same. I don't think it's worth spending much time thinking about, as my focus is on liminality and forms, not why we are the only ones to experience it.
+All discussion on forms, consciousness, and liminality are only looking at this period of the last 2500 years ago. I don't believe that anyone prior to this was experiencing the world that we experience today in the same way.
