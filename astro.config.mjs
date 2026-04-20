@@ -31,8 +31,9 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Consciousness and Development',
+					label: 'Self-Awarenness',
 					items: [
+						{ label: 'The Source', slug: 'consciousness/animals' },
 						{ label: 'Childhood Access', slug: 'consciousness/childhood-access' },
 						{ label: 'The Crossing', slug: 'consciousness/the-crossing' },
 						{ label: 'Thin Membranes', slug: 'consciousness/thin-membranes' },
@@ -42,6 +43,7 @@ export default defineConfig({
 				{
 					label: 'Civilization and History',
 					items: [
+						
 						{ label: 'The Source', slug: 'civilization/the-source' },
 						{ label: 'Ancient Access', slug: 'civilization/ancient-access' },
 						{ label: 'The Degradation of Signal', slug: 'civilization/degradation' },
