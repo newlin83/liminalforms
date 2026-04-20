@@ -1,5 +1,5 @@
 ---
-title: Splintering
+title: Emergence
 ---
 ## How Did We Become so Unique?
 
