@@ -29,6 +29,8 @@ That is very difficult to comprehend. We assume that humans are old, because we 
 
 Ultimately, the view must be that modern consciousness (introspective selfhood), liminality, and individual religion are 2500 years old. The religions and philosophies that developed weren't part of some continuous process, but were a massive fundamental shift in how humans thought before (myth, language, trial focus) and into how we think today. The cilivization and humanity we have now cannot be traced back more than 2500 years ago. 
 
+Jesus, the Hebrew prophets, the Buddha, Zoroaster, Socrates&mdash;all of them are expressions of a new cognitive capacity that had only recently emerged in the human species.
+
 ## Nothing else is like us
 
 For whatever reason, humanity split into a separate line, and we were able to have this explosion into eventual introspective consciousness that we have today, when everything else remained much more simple. I don't think it's worth spending much time thinking about, as this is more a question for evolutionary biologists, and really doesn't mean much for the topic of liminality or forms.
