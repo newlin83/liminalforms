@@ -26,11 +26,22 @@ export default defineConfig({
 					label: 'Genesis',
 					items: [
 						{ label: 'Emergence', slug: 'consciousness/animals' },
-						{ label: 'law', slug: 'consciousness/law' },
 						{ label: 'Childhood Access', slug: 'consciousness/childhood-access' },
 						{ label: 'The Crossing', slug: 'consciousness/the-crossing' },
 						{ label: 'Thin Membranes', slug: 'consciousness/thin-membranes' },
 						{ label: 'Cognitive Deterioration', slug: 'consciousness/cognitive-deterioration' },
+					],
+				},
+				{
+					label: 'Civilization and History',
+					items: [
+						{ label: 'Law', slug: 'civilization/law' },
+						{ label: 'Religion & Philosophy', slug: 'civilization/religion' },
+						{ label: 'Architecture', slug: 'civilization/architecture' },
+						{ label: 'The Source', slug: 'civilization/the-source' },
+						{ label: 'Ancient Access', slug: 'civilization/ancient-access' },
+						{ label: 'The Degradation of Signal', slug: 'civilization/degradation' },
+						{ label: 'Why Now', slug: 'civilization/why-now' },
 					],
 				},
 				{
@@ -40,18 +51,6 @@ export default defineConfig({
 						{ label: 'Levels', slug: 'backrooms/levels' },
 						{ label: 'The Hum', slug: 'backrooms/hum' },
 						{ label: 'Entities', slug: 'backrooms/entities' },
-					],
-				},
-				
-				{
-					label: 'Civilization and History',
-					items: [
-						
-						{ label: 'The Source', slug: 'civilization/the-source' },
-						{ label: 'Ancient Access', slug: 'civilization/ancient-access' },
-						{ label: 'The Degradation of Signal', slug: 'civilization/degradation' },
-						{ label: 'Religion as Reconstruction', slug: 'civilization/religion' },
-						{ label: 'Why Now', slug: 'civilization/why-now' },
 					],
 				},
 				{
